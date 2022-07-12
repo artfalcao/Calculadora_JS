@@ -1,4 +1,4 @@
-## Calculadora em JavaSript
+## Calculadora
 
 Construindo uma simples Calculadora em HTML, CSS e Javasript.
 
